@@ -27,9 +27,9 @@ import in.co.rays.ORSResponse;
 /**
  * Base controller class contains get, search, save, delete REST APIs
  * 
- * @author SunilOS
+ * @author Rohit Malviya
  * @version 1.0
- * @Copyright (c) SunilOS
+ * @Copyright (c) Rohit Malviya
  *
  * @param <F>
  * @param <T>
