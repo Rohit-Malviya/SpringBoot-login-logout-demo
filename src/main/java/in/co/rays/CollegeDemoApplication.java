@@ -31,11 +31,11 @@ public class CollegeDemoApplication {
         };
     }
 
-    @Bean
+    /*@Bean
     public PasswordEncoder passwordEncoder() {
     	System.out.println(new BCryptPasswordEncoder().encode("Rohit"));
     	return new BCryptPasswordEncoder();
-    }
+    }*/
 	public static void main(String[] args) {
 		SpringApplication.run(CollegeDemoApplication.class, args);
 	}
